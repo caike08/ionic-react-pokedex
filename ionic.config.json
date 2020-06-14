@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-pokedex",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
